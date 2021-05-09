@@ -64,11 +64,11 @@
  	 	 	 	"eng": "Terminal"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "請從副本中獲取共3個密鑰碎片,接著至[終端機]進行暴力破解,以取得完整密鑰來進入下個區域",
+ 	 	 	 	"trans": "請從副本中獲取共3個密鑰碎片，接著至[終端機]進行暴力破解，以取得完整密鑰來進入下個區域",
  	 	 	 	"eng": "To progress to next area, you need to use get Secret Key Fragments from dungeons, \r\n        and use Terminal to Brute Force the key for next area"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Your personal computer, although its a little outdated, it could get the job done with enough patient",
+ 	 	 	 	"trans": "你的個人電腦，雖然有點過時，但只要有足夠耐心還是可以完成作業",
  	 	 	 	"eng": "Your personal computer, although its a little outdated, it could get the job done with enough patient"
  	 	 	}
  	 	},
